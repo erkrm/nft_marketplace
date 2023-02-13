@@ -28,5 +28,18 @@ yarn-error.log*
 # local env files
 .env*.local
 
+
 # vercel
 .vercel
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
